@@ -1,0 +1,19 @@
+//initializes empty git
+git init
+
+//version
+git -- version
+
+//files from current directory to staging area
+git add .
+
+//files from staging area to localrep
+git commit -m "First Version Created"
+
+//to get status
+git status
+
+//to making the identity of user
+
+git config --global user.name "sayahna22"
+git config --global user.name "1729158@kiit.ac.in"
